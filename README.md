@@ -1,5 +1,5 @@
 
-# 📦 Remote System Administration & Networking Projects
+# 📦 Remote System Administration, Networking & IT Suppotr Projects
 
 This repository contains hands-on lessons and reflections as I study system administration, networking, and remote IT support.
 
