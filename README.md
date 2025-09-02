@@ -1,4 +1,3 @@
-# remote-sysadmin-networking-it-support-projects
 
 # 📦 Remote System Administration & Networking Projects
 
